@@ -1,0 +1,167 @@
+[
+    [
+        "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555617460465,
+            "changeTime": 1555617460465,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555617460465,
+            "changeTime": 1555617460465,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555618831138,
+            "changeTime": 1555618831138,
+            "contentHash": "078d9d900221255a6b7dd8c9ad552d583133e5e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555617460466,
+            "changeTime": 1555617460466,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555618831129,
+            "changeTime": 1555618831129,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555619306375,
+            "changeTime": 1555619306375,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default\\package.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default\\package.xml",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 216,
+            "modifiedTime": 1555622847801,
+            "changeTime": 1555622847801,
+            "contentHash": "7776ff7de14362912cb66f02ac56c720d24dfd08",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default\\pages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555618831133,
+            "changeTime": 1555618831133,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default\\staticresources",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555618831135,
+            "changeTime": 1555618831135,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default\\triggers",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555618831138,
+            "changeTime": 1555618831138,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\zisa\\Google_Drive\\Progetti\\VsCode\\sperimentali\\NewPrj001",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555618831142,
+            "changeTime": 1555618831142,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
